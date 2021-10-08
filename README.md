@@ -1,12 +1,12 @@
 # V2 SMTP Checker with Svelte, Tailwind, NodeJS and Serverless
 
-![Cover Image](https://cdn.raiyansarker.com/assets/QHXqWAHpOk.png "Thumbnail")
+![Cover Image](./thumbnail.png "Thumbnail")
 
 <br>
 
 ## Overview
 
-This project is using NodeJS as backend running in AWS lambda as Netlify functions. It has serverless rate limiting done with redis. You can get redis for free from here, [Upstash](https://upstash.com). In order to use it, click this [link](https://smtp-checker.raiyansarker.com).
+This project is using NodeJS as backend running in AWS lambda as Netlify functions. It has serverless rate limiting done with redis. You can get redis for free from here, [Upstash](https://upstash.com). In order to use it, click this [link](https://smtp-checker.sites.raiyansarker.com).
 
 ## Rate Limiting
 
